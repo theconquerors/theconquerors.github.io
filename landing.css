@@ -11399,7 +11399,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("images/head0.webp");
+  /* background-image: url("images/head0.webp"); */
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;

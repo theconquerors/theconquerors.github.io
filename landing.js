@@ -43,6 +43,7 @@ window.addEventListener('DOMContentLoaded', event => {
     });
 
     let header_bg = document.getElementById('masthead');
+    header_bg.style.backgroundImage = 'url("images/head0.webp")';
 
     function changeImage(i) {   
         var BackgroundImg=[
